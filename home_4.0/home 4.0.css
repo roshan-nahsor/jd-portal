@@ -1,0 +1,103 @@
+p{
+    text-align: center;
+}
+div.company_block{
+    display: block;
+    background-color: yellowgreen;
+    margin: 10px auto;
+    width: 55%;
+    height: 80%;
+    padding: 1%;
+    border-radius: 20px;
+}
+h1.card_heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* background-color:blanchedalmond; */
+    padding: 1%;
+    /* padding-bottom: 0%; */
+    width: 70%;
+    display: inline-block;
+}
+div.left_content{
+    width: 60%;
+    display: inline-block;
+    /* background-color: aliceblue; */
+    padding: 0% 1%;
+    text-align: justify;
+}
+div.right_content{
+    display: inline-block;
+    width: 35%;
+    padding: 0% 1%;
+}
+h3.batch{
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+h3.content_heading{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 0%;
+}
+hr{
+    border  : 1px solid black;
+    /* margin:0%; */
+}
+img.logo{
+    max-height: 50px;
+    object-fit: contain;
+    padding-top: 18px;
+    float:right;
+}
+.navbar{
+    position: fixed;
+    /* overflow: hidden; */
+    background-color: #333333;
+    padding: 10px;
+    top: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#search{
+    display: block;
+    border: none;
+    border-radius: 20px;
+    font-size: larger;
+    /* margin: auto; */
+    padding: 5px;
+}
+.main{
+    margin-top: 70px;
+    /* border: solid black; */
+    /* background-color: antiquewhite; */
+}
+body{
+    margin: 0;
+}
+option, #filter{
+    font-size: large;
+}
+.year_toggle{
+    display: block;
+    background-color: transparent;
+    border: none;
+    /* padding-top: 0%; */
+}
+option{
+    display: inline-block;
+}
+#login{
+    display: inline;
+    margin-right: 20px;
+    border-radius: 20px;
+    background-color:#50B3F4;
+    border: none;
+    padding: 12px;
+    font-size:small;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-weight: bold;
+}
