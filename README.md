@@ -2,7 +2,7 @@
   <img src="home_4.0/JD (crop).jpg" height="128">
 </p>
 
-![Logo](home_4.0/JD (crop).jpg)
+![Logo]("home_4.0/JD (crop).jpg")
 
 # jd-portal
 
